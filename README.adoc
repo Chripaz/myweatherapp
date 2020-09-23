@@ -17,6 +17,10 @@ Issues Found
 ```
 NY does not work. Over to Dev to resolve
 ```
+== Bugs
 
+Issues Found
 
-
+```
+NY does not work. Over to Dev to Resolve
+```
